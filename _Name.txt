@@ -8,3 +8,4 @@ mai
 มีไรอิ(Future)
 Noah
 Tantai
+Auto
